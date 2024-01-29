@@ -10,7 +10,7 @@ public class ExerciseApp {
 do {
 
     String[] exerciseBank = {"Crunches", "Push Ups", "Pull Ups", "Bench Press", "Lateral DB Flyes", "Side Crunches", "Toe Crunches", "Tricep Extensions", " Hyperextensions", "Front Raise", "Bosu ball squat", "Bent Over Row", "Arnold Press", " Seated Leg Cross Overs", "X-walks", "Leg Lifts (Any)","Twisted Knee Raises", "Negative Pull Ups", "Boat Pose with Scissor Variation", 
-     "Calf Raises", "Bicycle Crunches", "KB Shoulder Press", "KB Halos", "Steering Wheels", " Seated Battle Rope", "Oblique V-Up", "Shoulder Ext & Int Rotation", "Lat Pulldown", " Hip Adductor", "Hip Abductor", "Cable Face Pulls", "7,7,7's", "Inchworms", "Bb Row"};
+     "Calf Raises", "Bicycle Crunches", "KB Shoulder Press", "KB Halos", "Steering Wheels", " Seated Battle Rope", "Oblique V-Up", "Shoulder Ext & Int Rotation", "Lat Pulldown", " Hip Adductor", "Hip Abductor", "Cable Face Pulls", "Inchworms", "Bb Row"};
     
     var randomIndex = new Random().nextInt(exerciseBank.length);
 
